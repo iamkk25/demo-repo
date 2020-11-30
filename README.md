@@ -24,9 +24,9 @@
 
 ### Unordered List
 
--First Item
--Second Item
--Third Item
+- First Item
+- Second Item
+- Third Item
 
 ### Horizontal line
 
