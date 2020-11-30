@@ -1,7 +1,12 @@
 # HEADERS
+
 # h1
 ## h2
 ### h3
+
+### Normal 
+
+Normal text
 
 ### Bold
 
