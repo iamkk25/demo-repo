@@ -10,9 +10,8 @@
 -unordered list
 
 `code`
-----
-horizontal rule
+---
 
 #### this is link
-[google](www.google.com)
+[n](www.google.com)
 this file is for learning git and github.
