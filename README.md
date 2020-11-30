@@ -6,8 +6,11 @@
 ---
 
 **bold text**
+
 *italic*
+
 > blockquotes
+
 1.ordered list
 2.list2
 
@@ -18,6 +21,7 @@
 `code`
 
 #### this is link
+
 [google](https://www.google.com)
 
 ---
