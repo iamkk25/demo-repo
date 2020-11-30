@@ -9,9 +9,8 @@
 
 -unordered list
 
-`code`
 ---
 
 #### this is link
-[n](www.google.com)
+[google](https://www.google.com)
 this file is for learning git and github.
