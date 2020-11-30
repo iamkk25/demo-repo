@@ -1,28 +1,45 @@
-# this file is for learning git and github.
-# Header1
-## header2
-### head3
+# HEADERS
+# h1
+## h2
+### h3
 
----
+### Bold
 
 **bold text**
 
-*italic*
+### Italic
+
+*italic text*
+
+### Block Quotes
 
 > blockquotes
 
-1.ordered list
-2.list2
+### Ordered list
+
+1.First Item
+2.Second Item
+3.Third Item
+
+
+### Unordered List
+
+-First Item
+-Second Item
+-Third Item
+
+### Horizontal line
 
 ---
 
--unordered list
+### code
 
 `code`
 
-#### this is link
+### link
 
 [google](https://www.google.com)
 
----
+### Images
+
 ![dell xps laptop](https://unsplash.com/photos/kLfkVa_4aXM)
