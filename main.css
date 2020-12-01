@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-weight: 900;
+    font-size: 4rem;
+    background: linear-gradient(45deg, #5aeee7, #56adff);
+    background-clip: text;
+    letter-spacing: 3px;
+}
+p {
+    font-size: 2rem;
+}
