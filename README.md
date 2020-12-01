@@ -52,3 +52,8 @@ Normal text
 ### Images
 
 ![dell xps laptop](https://unsplash.com/photos/kLfkVa_4aXM)
+
+### table
+
+| table | head |
+| ----- | ---- |
