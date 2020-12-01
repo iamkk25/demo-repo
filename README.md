@@ -4,6 +4,10 @@
 ## h2
 ### h3
 
+### Changes
+
+learning git on my own.
+
 ### Normal 
 
 Normal text
